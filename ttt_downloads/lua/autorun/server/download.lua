@@ -47,6 +47,7 @@ resource.AddWorkshop("562524462") -- Overwatch Tracer Playermodel
 resource.AddWorkshop("775344741") -- Snoop Dogg Playermodel
 resource.AddWorkshop("823122488") -- Papyrus Playermodel
 resource.AddWorkshop("308133794") -- Elsa & Anna Playermodel
+resource.AddWorkshop("646635858") -- Predator Swep
 
 
 --Utilities
